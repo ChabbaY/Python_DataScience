@@ -6,3 +6,9 @@ ein einfaches Perceptron
 
 ## Kapitel 4: lernen im einfachen Netz ##
 Lernalgorithmen für Perceptron und Adaline (ADAptive LInear neuronal NEtwork)
+
+## Kapitel 5: mehrschichtige Neuronale Netze ##
+ein mehrschichtiges Perceptron
+
+## Kapitel 6: lernen im mehrschichtigen Netz ##
+Lernalgorithmus für mehrschichtige Netze: Error-Backpropagation-Algorithmus mit Gradientenabstieg
