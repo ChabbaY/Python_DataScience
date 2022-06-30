@@ -12,3 +12,6 @@ ein mehrschichtiges Perceptron
 
 ## Kapitel 6: lernen im mehrschichtigen Netz ##
 Lernalgorithmus für mehrschichtige Netze: Error-Backpropagation-Algorithmus mit Gradientenabstieg
+
+## Kapitel 8: programmieren eines Convolutional Neural Networks mit TensorFlow ##
+simples TensorFlow-Beispiel, dann Klassifikator für den MNIST-Datensatz (Handschrifterkennung), Modelle exportieren und importieren, ein bereits trainiertes Netz verwenden, um Bilder zu klassifizieren (ImageNet)
